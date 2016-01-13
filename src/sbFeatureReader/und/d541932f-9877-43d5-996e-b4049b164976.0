@@ -92,8 +92,8 @@
 {1,0},0},0,0,1,0,0,1,0,3,3},0,3,3},1,"",0,0,0,0,0,0,3,3,0,0,0},"
 &НаКлиенте
 Процедура Команда1(Команда)
-	//ПрочитатьФичиИРодительскиеКаталоги(""C:\Users\Alehin Sasha\Desktop\п1"");
-	ПрочитатьФичиИЗаголовки(""C:\Users\Alehin Sasha\Desktop\п1\п12\п122\п1221\ф3.feature"");
+	ПрочитатьОписаниеФичиИРодительскиеКаталоги(""D:\xDD\Rep\vanessa-stack-commons\lib\Проверка чтения описания и родительских каталогов фич"");
+	//ПрочитатьФичиИЗаголовки(""C:\Users\Alehin Sasha\Desktop\п1\п12\п122\п1221\ф3.feature"");
 КонецПроцедуры
 
 #Область Клиентские_API
@@ -249,10 +249,7 @@ LjFjLnJ1LzguMS9kYXRhL3VpL2NvbG9ycy93aW5kb3dzIiB4bWxuczp4cz0iaHR0
 cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEiIHhtbG5zOnhzaT0iaHR0cDov
 L3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiLz4=}
 },
-{0,1,
-{0,"Фичи",
-{"Pattern"},1}
-},
+{0,0},
 {0,1,
 {7,
 {1,409b9a53-7f7e-4178-86c1-33176c7c7a7a},"Команда1",
