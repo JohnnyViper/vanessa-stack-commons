@@ -1,4 +1,6 @@
-﻿# vanessa-stack-commons
+# vanessa-stack-commons
+
+[![Build Status](http://ci.silverbulleters.org/buildStatus/icon?job=Vanessa-Stack-Commons-Develop)](http://ci.silverbulleters.org/job/Vanessa-Stack-Commons-Develop/)
 
 #### Шаблон-алгоритм использования писателей
 ```
