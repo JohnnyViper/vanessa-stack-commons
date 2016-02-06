@@ -1,0 +1,9 @@
+﻿709802e2-4cb0-4e37-b55d-c1553ecca40c-->und\709802e2-4cb0-4e37-b55d-c1553ecca40c
+709802e2-4cb0-4e37-b55d-c1553ecca40c.0-->Form\Форма\Форма.txt
+709802e2-4cb0-4e37-b55d-c1553ecca40c.0-->und\709802e2-4cb0-4e37-b55d-c1553ecca40c.0
+709802e2-4cb0-4e37-b55d-c1553ecca40c.0-->und\709802e2-4cb0-4e37-b55d-c1553ecca40c.0
+copyinfo-->und\copyinfo
+f6c4251a-e579-47d6-9ec7-08c59e9f9a64-->und\f6c4251a-e579-47d6-9ec7-08c59e9f9a64
+root-->und\root
+version-->und\version
+versions-->und\versions
