@@ -5,6 +5,9 @@
 79a499cc-1782-4a2f-abe7-61ea4d49fd5a-->und\79a499cc-1782-4a2f-abe7-61ea4d49fd5a
 8aa13ab8-188a-4f59-be4f-031aa5450c90.0\info-->und\8aa13ab8-188a-4f59-be4f-031aa5450c90.0\info
 8aa13ab8-188a-4f59-be4f-031aa5450c90.0\text-->ObjectModule.txt
+a32c7945-a454-4bba-ab72-dcb1e3c3e89e-->und\a32c7945-a454-4bba-ab72-dcb1e3c3e89e
+a32c7945-a454-4bba-ab72-dcb1e3c3e89e.0-->D:\xDD\Rep\vanessa-stack-commons\src\features\feature reader\step_definitions\Читатель фич умеет читать описание фич и их родительских каталогов\Макеты\ЧтениеТестовогоКаталогаФич.txt
+a32c7945-a454-4bba-ab72-dcb1e3c3e89e.0-->und\a32c7945-a454-4bba-ab72-dcb1e3c3e89e.0
 copyinfo-->und\copyinfo
 root-->und\root
 version-->und\version
