@@ -2,7 +2,11 @@
 
 [![Build Status](http://ci.silverbulleters.org/buildStatus/icon?job=Vanessa-Stack-Commons-Develop)](http://ci.silverbulleters.org/job/Vanessa-Stack-Commons-Develop/)
 
-#### Шаблон-алгоритм использования писателей
+
+Проект по созданию коллекции полезных библиотек для использования в рамках инструментария **Vanessa Stack**
+
+#### Шаблон-алгоритм использования @писателей"
+
 ```
 Процедура ???() Экспорт
 	КаталогИнструментов = ПолучитьКаталогИнструментовНаСервере();
