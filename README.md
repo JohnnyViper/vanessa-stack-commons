@@ -1,5 +1,7 @@
 # vanessa-stack-commons
 
+[![Join the chat at https://gitter.im/silverbulleters/vanessa-stack-commons](https://badges.gitter.im/silverbulleters/vanessa-stack-commons.svg)](https://gitter.im/silverbulleters/vanessa-stack-commons?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](http://ci.silverbulleters.org/buildStatus/icon?job=Vanessa-Stack-Commons-Develop)](http://ci.silverbulleters.org/job/Vanessa-Stack-Commons-Develop/)
 
 
