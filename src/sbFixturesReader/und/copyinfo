@@ -1,6 +1,15 @@
 ﻿{4,
-{0},
-{0},
+{2,
+{0c4fbe33-8e2f-43b9-9fe7-2ccd29d8dc68,0c4fbe33-8e2f-43b9-9fe7-2ccd29d8dc68,1,
+{d5b0e5ed-256d-401c-9c36-f630cafd8a62,"Форма"}
+},
+{ccbaab56-bd58-474e-8c4f-56de182f96b8,ccbaab56-bd58-474e-8c4f-56de182f96b8,1,
+{c3831ec8-d8d5-4f93-8a22-f9bfae07327f,"VanessaFixturesWriters"}
+}
+},
+{1,
+{558e13a5-f140-4b73-bbd8-5af78ce3ba87,ccbaab56-bd58-474e-8c4f-56de182f96b8,0}
+},
 {0},
 {0,0},
 {0}

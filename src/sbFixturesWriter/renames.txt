@@ -1,4 +1,8 @@
-﻿77edf6d0-1310-4177-b943-1a713ff8666b-->und\77edf6d0-1310-4177-b943-1a713ff8666b
+﻿4c6cf6c7-a009-4912-bdf4-7447c58fb80f-->und\4c6cf6c7-a009-4912-bdf4-7447c58fb80f
+4c6cf6c7-a009-4912-bdf4-7447c58fb80f.0-->Form\Форма\Форма.txt
+4c6cf6c7-a009-4912-bdf4-7447c58fb80f.0-->und\4c6cf6c7-a009-4912-bdf4-7447c58fb80f.0
+4c6cf6c7-a009-4912-bdf4-7447c58fb80f.0-->und\4c6cf6c7-a009-4912-bdf4-7447c58fb80f.0
+77edf6d0-1310-4177-b943-1a713ff8666b-->und\77edf6d0-1310-4177-b943-1a713ff8666b
 ccbaab56-bd58-474e-8c4f-56de182f96b8.0\info-->und\ccbaab56-bd58-474e-8c4f-56de182f96b8.0\info
 ccbaab56-bd58-474e-8c4f-56de182f96b8.0\text-->ObjectModule.txt
 copyinfo-->und\copyinfo
