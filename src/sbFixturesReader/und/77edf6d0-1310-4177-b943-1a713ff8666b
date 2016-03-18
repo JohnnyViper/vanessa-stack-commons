@@ -5,8 +5,8 @@
 {4,558e13a5-f140-4b73-bbd8-5af78ce3ba87,b0cdea95-3df3-416f-b5e0-266c372f0313,
 {0,
 {1,
-{0,0,ccbaab56-bd58-474e-8c4f-56de182f96b8},"VanessaFixturesWriters",
-{1,"ru","Vanessa fixtures writers"},"",0,0}
+{0,0,ccbaab56-bd58-474e-8c4f-56de182f96b8},"VanessaFixturesReader",
+{1,"ru","Vanessa fixtures reader"},"",0,0}
 },0c4fbe33-8e2f-43b9-9fe7-2ccd29d8dc68,"",00000000-0000-0000-0000-000000000000},4,
 {2bcef0d1-0981-11d6-b9b8-0050bae0a95d,0},
 {3daea016-69b7-4ed4-9453-127911372fe6,1,3af62b9c-18e6-4803-b834-e91a35eaec51},
