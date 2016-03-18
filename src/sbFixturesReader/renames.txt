@@ -3,7 +3,7 @@
 0c4fbe33-8e2f-43b9-9fe7-2ccd29d8dc68.0-->und\0c4fbe33-8e2f-43b9-9fe7-2ccd29d8dc68.0
 0c4fbe33-8e2f-43b9-9fe7-2ccd29d8dc68.0-->und\0c4fbe33-8e2f-43b9-9fe7-2ccd29d8dc68.0
 3af62b9c-18e6-4803-b834-e91a35eaec51-->und\3af62b9c-18e6-4803-b834-e91a35eaec51
-3af62b9c-18e6-4803-b834-e91a35eaec51.0-->Макеты\Начисление.txt
+3af62b9c-18e6-4803-b834-e91a35eaec51.0-->Макеты\Объект.txt
 3af62b9c-18e6-4803-b834-e91a35eaec51.0-->und\3af62b9c-18e6-4803-b834-e91a35eaec51.0
 77edf6d0-1310-4177-b943-1a713ff8666b-->und\77edf6d0-1310-4177-b943-1a713ff8666b
 ccbaab56-bd58-474e-8c4f-56de182f96b8.0\info-->und\ccbaab56-bd58-474e-8c4f-56de182f96b8.0\info
