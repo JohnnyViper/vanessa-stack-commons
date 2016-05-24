@@ -1,7 +1,11 @@
 ﻿0fd334e4-64b3-4261-b025-f022b5133c9c.0\info-->und\0fd334e4-64b3-4261-b025-f022b5133c9c.0\info
 0fd334e4-64b3-4261-b025-f022b5133c9c.0\text-->ObjectModule.bsl
+af9b1c6a-e2d4-46fa-9d1a-51d152ed301c-->und\af9b1c6a-e2d4-46fa-9d1a-51d152ed301c
+af9b1c6a-e2d4-46fa-9d1a-51d152ed301c.0-->und\af9b1c6a-e2d4-46fa-9d1a-51d152ed301c.0
 copyinfo-->und\copyinfo
 e1ad9a05-a8d5-4492-bef6-afacfae9ebb9-->und\e1ad9a05-a8d5-4492-bef6-afacfae9ebb9
+fa4cc8ba-c810-4bb6-bddb-367774b758d4-->und\fa4cc8ba-c810-4bb6-bddb-367774b758d4
+fa4cc8ba-c810-4bb6-bddb-367774b758d4.0-->Form\ФормаОбычная
 root-->und\root
 version-->und\version
 versions-->und\versions
